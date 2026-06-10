@@ -1,5 +1,7 @@
 # Todo App CLI
 
+[English](./README.md) | [中文](./README.zh-CN.md)
+
 A simple command-line ToDo List application built with Python.
 
 This project allows users to manage tasks directly from the terminal. Tasks are stored locally in a JSON file, so the data will still be available after the program exits.
